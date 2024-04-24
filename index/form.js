@@ -1,6 +1,6 @@
 function handleSubmit(event) {
   event.preventDefault();
-  window.location.href = "./thankyou.html";
+  window.location.href = "../thankyou/thankyou.html";
 }
 
 // close cookie
